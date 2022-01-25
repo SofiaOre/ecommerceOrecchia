@@ -11,8 +11,8 @@ function History() {
 
   <Col xs={12} md={6} >    
     <Card.Img     
-      src=" assets/equipo.jpg "
-      alt="Imagen detalle de producto"
+      src="ecommerceOrecchia/assets/equipo.jpg"
+      alt="Imagen equipo"
       style={{ height: "35rem", objectFit: "contain", paddingLeft:"15px"}}  
     />
     

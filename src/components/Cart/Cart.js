@@ -83,18 +83,18 @@ const Cart = () => {
 
           <div className="precioTotal">
 
-            <h4 class="font-weight-bold">TOTAL CARRITO: ${totalCart()}</h4>
+            <h3 class="font-weight-bold">TOTAL CARRITO: ${totalCart()}</h3>
           </div>
           <div className="botonesCompra">
-            <Button className=" btn btn-outline-primary botonVaciarCarrito" onClick={removeFromCart}>Vaciar carrito</Button>
+            <Button className=" btn btn-outline-primary " onClick={removeFromCart}>Vaciar carrito</Button>
             <Link to="/all">
-              <Button className="btn btn-outline-primary botonSeguirComprando">Seguir comprando</Button>
+              <Button className="btn btn-outline-primary ">Seguir comprando</Button>
             </Link>
             <div className="mr-auto">
 
               <Link to="/Checkout" >
 
-                <Button className="btn btn-outline-success  botonSeguirComprando2" >TERMINAR COMPRA </Button>
+                <Button className="btn btn-outline-success" >TERMINAR COMPRA </Button>
               </Link></div>
 
           </div>

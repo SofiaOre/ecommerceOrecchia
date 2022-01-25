@@ -29,24 +29,24 @@ const Home = ({ greetings }) => {
                 <div class="col">
                   <div class="counter">
 
-                    <img src=" assets/hus.png " alt="" width="80%" />
+                    <img src="ecommerceOrecchia/assets/hus.png" alt="" width="80%" />
 
                   </div>
                 </div>
                 <div class="col">
                   <div class="counter">
-                    <img src=" assets/mc.png " alt="" width="80%" />
+                    <img src="ecommerceOrecchia/assets/mc.png " alt="" width="80%" />
 
                   </div>
                 </div>
                 <div class="col">
                   <div class="counter">
-                    <img src=" assets/spear.png " alt="" width="85%" class="py-3" />
+                    <img src="ecommerceOrecchia/assets/spear.png" alt="" width="85%" class="py-3" />
 
                   </div></div>
                 <div class="col">
                   <div class="counter">
-                    <img src=" assets/stanley.png " alt="" width="85%" class="py-4" />
+                    <img src="ecommerceOrecchia/assets/stanley.png " alt="" width="85%" class="py-4" />
                   </div>
                 </div>
               </div>
@@ -71,9 +71,9 @@ const Home = ({ greetings }) => {
             </p>
 
             <p class="paraHistory">
-              Acompañamos a nuestros clientes en su evolucion, a traves de la flexibilidad de nuestras aplicaciones.
+              Acompañamos a nuestros clientes en su evolucion, a traves de la flexibilidad de nuestros medios de pago.
               Satisfaciendo a cada uno de ellos
-              mediante soluciones con desarrollo tecnológico.
+              mediante diseños realmente innovadores.
             </p>
 
             <Link className="btn  btn-primary" to="/History" style={{ margin: "1rem" }}>CONOCENOS!</Link>

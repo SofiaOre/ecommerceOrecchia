@@ -68,12 +68,10 @@ const Footer = () => {
           </MDBCol>
         </MDBRow>
       </MDBContainer>
-      <div className="footer-copyright text-center py-3">
-        <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright Endor - 2021 :
-          Diseño y desarrollo por  <a href="https://www.linkedin.com//">Sofia Orecchia</a>
-        </MDBContainer>
-      </div>
+      <center>
+          Diseño y desarrollo por  <a href="https://www.linkedin.com//">Sofia Anabella Orecchia</a>
+       </center>
+     
     </MDBFooter>
   );
 }
