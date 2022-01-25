@@ -19,7 +19,7 @@ return (
 
       <Link to="/">
       <Navbar.Brand>
-      <h4><img src={Logo} alt="" className="App-logo" />    ENDOR  </h4>        
+      <h3><img src={Logo} alt="Logo" className="App-logo" />    ENDOR  </h3>        
       </Navbar.Brand>
       </Link>
 
