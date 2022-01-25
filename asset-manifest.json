@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecommerceOrecchia/static/css/main.f45ad7e0.chunk.css",
-    "main.js": "/ecommerceOrecchia/static/js/main.6eeb3976.chunk.js",
-    "main.js.map": "/ecommerceOrecchia/static/js/main.6eeb3976.chunk.js.map",
+    "main.js": "/ecommerceOrecchia/static/js/main.08b42a3e.chunk.js",
+    "main.js.map": "/ecommerceOrecchia/static/js/main.08b42a3e.chunk.js.map",
     "runtime-main.js": "/ecommerceOrecchia/static/js/runtime-main.a548deb0.js",
     "runtime-main.js.map": "/ecommerceOrecchia/static/js/runtime-main.a548deb0.js.map",
     "static/css/2.f33e6e2a.chunk.css": "/ecommerceOrecchia/static/css/2.f33e6e2a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.f33e6e2a.chunk.css",
     "static/js/2.4b1d91aa.chunk.js",
     "static/css/main.f45ad7e0.chunk.css",
-    "static/js/main.6eeb3976.chunk.js"
+    "static/js/main.08b42a3e.chunk.js"
   ]
 }
