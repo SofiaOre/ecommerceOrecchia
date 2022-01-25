@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "name": "MATE CALABAZA",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+      "price": 2000,
+      "image": "matecalabaza.svg",
+      "category": "Mate",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "MATE DE ACERO",
+      "description": "Lorem ipsum dolor sit amet
+       consectetur, adipisicing elit. Debitis ratione 
+       commodi neque aperiam rem magnam minima assumenda 
+       tenetur eveniet aspernatur? Recusandae suscipit
+        quaerat perspiciatis eius cupiditate doloremque 
+        accusantium autem possimus.",
+      "price": 10500,
+      "image": "mateacero.jpg",
+      "category": "Mate",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "name": "MATE PALO SANTO",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+      "price": 10500,
+      "image": "matepalosanto.jpg",
+      "category": "Mate",
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "name": "MATE DE ALGARROBO",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+      "price": 20000,
+      "image": "matemadera.jpg",
+      "category": "Mate",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "name": "MATE HEXAGONAL",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+      "price": 500,
+      "image": "matelados.jpg",
+      "category": "Mate",
+      "stock": 13
+    },
+     
+  
+    {
+        "id":6,
+        "name": "TERMO ACERO",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+        "price": 500,
+        "image": "termoacero.jpg",
+        "category": "Termos",
+        "stock": 11
+      },
+
+      {
+        "id": 7,
+        "name": "TERMO STANLEY",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+        "price": 500,
+        "image": "termostanley.jpg",
+        "category": "Termos",
+        "stock": 100
+      },
+      {
+        "id": 8,
+        "name": "TERMO GIRL",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+        "price": 500,
+        "image": "termogirl.jpg",
+        "category": "Termos",
+        "stock": 200
+      },
+      {
+        "id": 9,
+        "name": "BOMBILLA METAL",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+        "price": 500,
+        "image": "bombimetal.jpg",
+        "category": "Accesorios",
+        "stock": 80
+      },
+      {
+        "id": 10,
+        "name": "BOMBILLA ALPACA",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
+        "price": 500,
+        "image": "bombialpaca.jpg",
+        "category": "Accesorios",
+        "stock": 0
+      }
+
+
+
+
+  ]

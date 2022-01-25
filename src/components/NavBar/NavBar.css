@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&family=Open+Sans:wght@400;600;700;800&display=swap');
+
+
+.navbar {
+    -webkit-box-shadow: 3px 3px 3px white;
+    -moz-box-shadow:    3px 3px 3px #cf7610;;
+    box-shadow:         3px 3px 3px #81ac76;;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: white;
+    height: 70px;
+
+
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    color:  #ac9376;
+    position: relative;
+}
+
+#collasible-nav-dropdown{
+    color: #ac9376;
+    text-decoration: none;
+}
+
+#collasible-nav-dropdown:hover{
+    color: black;
+    display: block;
+}
+
+.categorias {
+    display: block;
+    width: 100%;
+    padding: .25rem 1rem;
+    clear: both;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    
+    
+}
+.navCol{
+  background-color: white;
+}
+
+.categorias:hover{
+    color: grey!important;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: #ac9376;
+  padding: 1rem 2rem;
+  background-color: transparent;
+}
+
+.nav-link:hover{
+    color: #ac9376 ;
+
+    
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.cartt {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.cartNumber{
+  background-color: #ac9376;
+  padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+  color: rgb(0, 0, 0);
+  border-radius: 50%;
+  font-size: 1rem;
+}
+
+a {
+    text-decoration: none  !important;
+}
+
+.iconWpp{
+  visibility: visible;
+}
