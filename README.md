@@ -5,7 +5,7 @@ Proyecto React Js. Ecommerce dedicado a la venta de mates.
 
 ## Implementacion en vivo
 
-[Endor.Mates](https://github.com/SofiaOre/EndorMate)
+[Endor.Mates](https://sofiaore.github.io/ecommerceOrecchia/)
 
 ## 🛠 Construido con:
 
