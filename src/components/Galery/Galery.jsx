@@ -23,7 +23,7 @@ class Banner extends Component {
                         <div className="contenedor">
                             <img
                                 className="banerSlide"
-                                alt="bannerText1"
+                                alt="banner1"
                                 src={slide1}
                             />
                         </div>
@@ -32,7 +32,7 @@ class Banner extends Component {
                         <div className="contenedor">
                             <img
                                 className="banerSlide"
-                                alt="bannerText1"
+                                alt="banner2"
                                 src={slide2}
                             />
                         </div>
@@ -41,7 +41,7 @@ class Banner extends Component {
                         <div className="contenedor">
                             <img
                                 className="banerSlide"
-                                alt="bannerText1"
+                                alt="banner3"
                                 src={slide3}
                             />
                         </div>
