@@ -29,24 +29,24 @@ const Home = ({ greetings }) => {
                 <div class="col">
                   <div class="counter">
 
-                    <img src="ecommerceOrecchia/assets/hus.png" alt="" width="80%" />
+                    <img src="assets/hus.png" alt="" width="80%" />
 
                   </div>
                 </div>
                 <div class="col">
                   <div class="counter">
-                    <img src="ecommerceOrecchia/assets/mc.png " alt="" width="80%" />
+                    <img src="assets/mc.png " alt="" width="80%" />
 
                   </div>
                 </div>
                 <div class="col">
                   <div class="counter">
-                    <img src="ecommerceOrecchia/assets/spear.png" alt="" width="85%" class="py-3" />
+                    <img src="assets/spear.png" alt="" width="85%" class="py-3" />
 
                   </div></div>
                 <div class="col">
                   <div class="counter">
-                    <img src="ecommerceOrecchia/assets/stanley.png " alt="" width="85%" class="py-4" />
+                    <img src="assets/stanley.png " alt="" width="85%" class="py-4" />
                   </div>
                 </div>
               </div>

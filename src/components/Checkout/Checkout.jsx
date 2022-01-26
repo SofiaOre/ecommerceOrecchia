@@ -1,5 +1,3 @@
-
-
 import { useState } from "react";
 import { useCartContext } from "../../context/CartContext";
 import { collection, addDoc, getFirestore, Timestamp } from "firebase/firestore";
@@ -62,7 +60,6 @@ function Checkout() {
             <h2 className="text-success">
                 {idOrder.length !== 0 && "  Su número de orden es " + idOrder}
             </h2>
-
 
             <center>
                 <form

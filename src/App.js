@@ -15,11 +15,11 @@ import WhatsApp from './components/WhatsApp/WhatsApp';
 function App() {
   return (
     <CartContextProvider>
-     <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Header/>
         <Routes>
-           <Route path="/" element={<Home/>}/>
+           <Route path="/" element={<Home greetings="Bienvenido a Endor!"/>}/>
            <Route path="/History" element={<History/>}/>
           <Route  
             path="/all" 

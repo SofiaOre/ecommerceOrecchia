@@ -85,10 +85,10 @@ const Cart = () => {
 
             <h3 class="font-weight-bold">TOTAL CARRITO: ${totalCart()}</h3>
           </div>
-          <div className="botonesCompra">
-            <Button className=" btn btn-outline-primary " onClick={removeFromCart}>Vaciar carrito</Button>
+          <div>
+            <Button className="btn btn-outline-primary" onClick={removeFromCart}>Vaciar carrito</Button>
             <Link to="/all">
-              <Button className="btn btn-outline-primary ">Seguir comprando</Button>
+              <Button className="btn btn-outline-primary">Seguir comprando</Button>
             </Link>
             <div className="mr-auto">
 
